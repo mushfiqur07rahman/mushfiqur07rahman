@@ -8,7 +8,7 @@ MERN Developer
 - React Router
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfiqur07rahman&show_icons=true&hide_title=true)
 
 ## Contact
 - Discord: mushiiiiiii__
